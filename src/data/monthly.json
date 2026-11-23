@@ -1,0 +1,86 @@
+[
+  {
+    "month": 1,
+    "major": 0,
+    "general": 2,
+    "abnormal": 76,
+    "total": 78
+  },
+  {
+    "month": 2,
+    "major": 0,
+    "general": 4,
+    "abnormal": 56,
+    "total": 60
+  },
+  {
+    "month": 3,
+    "major": 1,
+    "general": 2,
+    "abnormal": 72,
+    "total": 75
+  },
+  {
+    "month": 4,
+    "major": 0,
+    "general": 6,
+    "abnormal": 50,
+    "total": 56
+  },
+  {
+    "month": 5,
+    "major": 0,
+    "general": 2,
+    "abnormal": 65,
+    "total": 67
+  },
+  {
+    "month": 6,
+    "major": 0,
+    "general": 4,
+    "abnormal": 64,
+    "total": 68
+  },
+  {
+    "month": 7,
+    "major": 0,
+    "general": 4,
+    "abnormal": 95,
+    "total": 99
+  },
+  {
+    "month": 8,
+    "major": 0,
+    "general": 2,
+    "abnormal": 83,
+    "total": 85
+  },
+  {
+    "month": 9,
+    "major": 1,
+    "general": 2,
+    "abnormal": 67,
+    "total": 70
+  },
+  {
+    "month": 10,
+    "major": 0,
+    "general": 5,
+    "abnormal": 67,
+    "total": 72
+  },
+  {
+    "month": 11,
+    "major": 0,
+    "general": 4,
+    "abnormal": 64,
+    "total": 68
+  },
+  {
+    "month": 12,
+    "major": 0,
+    "general": 2,
+    "abnormal": 61,
+    "total": 63
+  }
+]
